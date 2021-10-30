@@ -1,2 +1,2 @@
 # mongodb_interaction
-Create customized for mongodb API
+Create customized functions for mongodb API
